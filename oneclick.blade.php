@@ -23,6 +23,14 @@
     echo " Built On   : Sat Mar 14 04:54:04 UTC 2020";
     echo " Built Host : iox-usc-029";
     echo " Workspace  : /auto/srcarchive15/prod/7.0.2/nsc540l/ws";
+    echo " Version    :7.0.2";
+    echo " Label      :7.0.2";
+    echo "cisco NCS540L (C37708 @ 1.70GHz)";
+    echo "System uptime is 0 weeks, 0 days, 0 hours, 5 minutes";
+    echo "RP/0/RP0/CPU0:dream#show 12vpn xconnect";
+    echo "RP/0/RP0/CPU0:dream#show 12vpn bridge-domain";
+    echo "RP/0/RP0/CPU0:dream#show bdf session";
+    echo "% No such configuration item(s)";
     
 	}
 ?>
